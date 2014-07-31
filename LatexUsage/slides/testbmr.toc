@@ -1,0 +1,4 @@
+\beamer@endinputifotherversion {3.33pt}
+\beamer@sectionintoc {2}{Simple slide with three points shown all at once}{4}{0}{1}
+\beamer@subsectionintoc {2}{1}{Simple slide with three points shown in succession}{5}{0}{1}
+\beamer@sectionintoc {3}{Slide with two columns: items and a graphic}{8}{0}{2}

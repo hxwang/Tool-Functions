@@ -1,0 +1,29 @@
+<html>
+<head>
+<title>
+Xiaohuahua
+</title> 
+</head>
+<body>
+<div>
+This is the first div.
+</div>
+<div>
+This is the second div.
+</div>
+<script type="text/javascript">
+	var pcs = [
+		{ 'Maker': 'APPLE', 'Type': 'MBP'},
+		{ 'Maker': 'Lenovo', 'Type': 'X220'},
+		{ 'Maker': 'Dell', 'Type': 'PC'}
+	];
+	
+	for(var i in pcs)
+	{
+		var pc = pcs[i];
+		document.write('Maker:' + pc.Maker + ', Type:' + pc.Type + '<br/>');
+	}
+	
+</script>
+</body>
+</html>
