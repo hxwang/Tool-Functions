@@ -9,7 +9,7 @@ namespace OptAssignment
     public class FileUtil
     {
         /// <summary>
-        /// Write array to string
+        /// Write array to file
         /// </summary>
         /// <typeparam name="T"></typeparam>
         /// <param name="array"></param>
@@ -31,7 +31,7 @@ namespace OptAssignment
             }
         }
 
-        //read array from string
+        //read array from file
         public static T[, ,] ReadArrayFromFile<T>(int clientNum, int insiderNum, int proxyNum, String fileName) {
             String line;
             int proxyIndx = 0;
