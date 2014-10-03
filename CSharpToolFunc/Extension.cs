@@ -9,12 +9,7 @@ namespace Shuffling.Util
 {
     public static class Extension
     {
-        //public static double GetValue(this MWArray self, int i, int j)
-        //{
-        //   return ((MWNumericArray)self[i,j]).ToScalarDouble();
-        //}
-
-
+        
         /// <summary>
         /// saved list to file
         /// </summary>
@@ -48,22 +43,6 @@ namespace Shuffling.Util
                 });
             }
         }
-
-        public static List<Client> ClientLeaveSystem(this List<Client> self, double processingTime)
-        {
-            var list = self.Where(c =>
-            {
-                return !c.IsInsider && c.AttackedHistory.Count > processingTime;
-            }).ToList();
-
-            self.RemoveAll(c =>
-            {
-                return !c.IsInsider && c.AttackedHistory.Count > processingTime;
-            });
-
-            return list;
-        }
-
 
     }
 }
