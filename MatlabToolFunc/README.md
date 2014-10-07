@@ -11,4 +11,6 @@ Matlab Tool Functions
 
 ### Plot Figures
 - [Basic Plot Example](./plotFigure.m)
-- [Linear Solver](./LinearSolver.m)
+
+### Solving Functions
+[Linear Solver](./LinearSolver.m)
