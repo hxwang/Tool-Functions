@@ -13,4 +13,4 @@ Matlab Tool Functions
 - [Basic Plot Example](./plotFigure.m)
 
 ### Solving Functions
-[Linear Solver](./LinearSolver.m)
+- [Linear Solver](./LinearSolver.m)
