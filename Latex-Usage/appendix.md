@@ -14,3 +14,10 @@
     blablabla
 \end{appendices}
 ```
+- effect
+```
+Appendix A nameA
+blablabla
+Appendix B 
+blablabla
+```
