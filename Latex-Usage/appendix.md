@@ -1,7 +1,7 @@
 ## Appendix
 
 
-### Intro
+### Mode 1
 - [Ref](http://tex.stackexchange.com/questions/132972/how-to-force-latex-to-change-from-a-appendixs-name-to-appendix-a)
 - use package: `\usepackage[titletoc,title]{appendix}`
 - code
