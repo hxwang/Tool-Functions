@@ -2,15 +2,15 @@ Matlab Tool Functions
 ---
 
 ### Format
-- [simulation comment standard](./file/sim_comment.md)
-
+- [simulation code comment standard](./file/sim_comment.md)
+- [simulation markdown standard](./file/sim_md_standard.md)
 
 ### Array Operation
 
 
 
 ### Plot Figures
-- [Basic Plot Example](./plotFigure.m)
+- [Basic Plot Example](./file/plotFigure.m)
 
 ### Solving Functions
-- [Linear Solver](./LinearSolver.m)
+- [Linear Solver](./file/LinearSolver.m)
