@@ -2,7 +2,7 @@
 
 ### Example
 - code
-- 
+
 ![](../figs/eg-lp1.PNG)
 
 - result
