@@ -8,8 +8,10 @@
 - .LG4: save objects and format
 - .LNG: does not save objects and format
 
-### Usage example
-- [LP](./file/lp.md)
+### Usage 
+- [gramma](./file/gramma.md)
+- example
+  - [LP](./file/lp.md)
 
 ### Reference
 - [Ref1](http://wenku.baidu.com/view/a4007a82ec3a87c24028c411)
