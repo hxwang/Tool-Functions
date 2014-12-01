@@ -49,3 +49,7 @@ data:
 		 5 5 2 2 8 1 4 3;
 enddata
 ```
+
+- result
+
+![](../figs/eg-lp2-result.PNG)
