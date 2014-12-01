@@ -5,6 +5,7 @@
 
 ### Tutorial
 - [Ref1](http://wenku.baidu.com/view/a4007a82ec3a87c24028c411)
+- [LINGO使用教程-百度文库](http://wenku.baidu.com/view/54261a67ddccda38376baf09)
 
 ### File Format
 - .LG4: save objects and format
