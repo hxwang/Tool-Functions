@@ -2,7 +2,7 @@
 
 ### Example
 - code
-![](./figs/eg-lp1.png)
+![](../figs/eg-lp1.png)
 
 - result
-![](./figs/eg-lp1-result.PNG)
+![](../figs/eg-lp1-result.PNG)
