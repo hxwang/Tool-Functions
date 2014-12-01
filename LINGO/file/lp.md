@@ -2,8 +2,13 @@
 
 ### Example 1
 - code 
+```
+max 2x+3y
 
-![](../figs/eg-lp1.PNG)
+st
+4x + 3y <= 10
+3x + 5y < 12
+```
 
 - result
 
