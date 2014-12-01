@@ -4,7 +4,7 @@
 - `max=` or `min=` define the objective
 - `@SUM(Time(i): ...)`: sum up, i is the index
 - `@FOR(Time(i): ...)`: 
-- 
+
 
 ### Constraints
 - `@BIN(x)`: constraints x to be 0 or 1
