@@ -1,7 +1,7 @@
 ## Linear Programming
 
-### Example
-- code
+### Example 1
+- code 
 
 ![](../figs/eg-lp1.PNG)
 
