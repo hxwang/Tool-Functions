@@ -15,8 +15,7 @@ st
 ![](../figs/eg-lp1-result.PNG)
 
 ### Example 2
-- Question
-We have a 6*8 table, each row represents a source, each column represents a destination, the value in talbe [i,j] represents the cost to diliver goods from i to j. Each source has a capacity and each destimation has a demand requirement. The objective is to
+- Question: We have a 6*8 table, each row represents a source, each column represents a destination, the value in talbe [i,j] represents the cost to diliver goods from i to j. Each source has a capacity and each destimation has a demand requirement. The objective is to
 decide how to deliver goods in order to minimize the cost.
 
 - Code
