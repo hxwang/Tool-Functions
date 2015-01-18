@@ -14,3 +14,7 @@ Matlab Tool Functions
 
 ### Solving Functions
 - [Linear Solver](./file/LinearSolver.m)
+
+### Data Analysis
+- K-mean
+  - [Plot reference](http://stackoverflow.com/questions/18091728/k-means-cluster-plot)
