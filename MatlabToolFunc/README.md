@@ -14,6 +14,7 @@ Matlab Tool Functions
 
 ### Solving Functions
 - [Linear Solver](./file/LinearSolver.m)
+- Min/Max objective subject to constraints: [linear optimization](./file/LPInequation.m)
 
 ### Data Analysis
 - K-mean
