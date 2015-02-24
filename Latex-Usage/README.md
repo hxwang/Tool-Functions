@@ -8,6 +8,7 @@
 ### Function
 - [TODO-counter](./file/todoCounter.md)
 - [Color-text](./file/colorText.md)
+- [Algorithm](./file/alg.md)
 
 ### Template
 - [Template](./file/template.tex)
