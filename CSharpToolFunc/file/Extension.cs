@@ -43,6 +43,24 @@ namespace Shuffling.Util
                 });
             }
         }
+        
+        
+        /// <summary>
+        /// Read line to create double list
+        /// </summary>
+        public static List<double> ReadList(this StreamReader self)
+        {
+            var line = self.ReadLine();
+            var items = line.Split(' ');
+            var list = new List<Double>();
+            foreach (String s in items)
+            {
+                list.Add(double.Parse(s));
+            }
+
+            return list;
+        
+        }
 
     }
 }
