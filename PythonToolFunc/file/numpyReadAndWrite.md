@@ -4,7 +4,7 @@
 ### Read data from file to matrix
 
 ```python
-originData = numpy.loadtxt(input, delimiter=",", dtype = numpy.float64)
+originData = numpy.loadtxt(inputFileName, delimiter=",", dtype = numpy.float64)
 data = originData[:,column]
 newdata = []
 ```
