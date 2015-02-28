@@ -7,7 +7,6 @@
 originData = numpy.loadtxt(inputFileName, delimiter=",", dtype = numpy.float64)
 #column: the target column wanted
 data = originData[:,column]
-newdata = []
 ```
 
 ### Save data
