@@ -11,7 +11,7 @@ Python
 ### Input/Output
 - [read and write file](./file/readAndWrite.py)
 - [traverse file](./file/traverse.py)
-- [numpy read and write file](./file/numpyReadAndWrite.py)
+- [numpy read and write file](./file/numpyReadAndWrite.md)
 
 ### Unarchived
 
