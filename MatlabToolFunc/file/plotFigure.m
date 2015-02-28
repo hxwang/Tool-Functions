@@ -38,6 +38,13 @@ legend('sample');
 set(get(axes1,'XLabel'),'String','x','FontSize',30,'FontWeight','bold');
 set(get(axes1,'YLabel'),'String','y','FontSize',30,'FontWeight','bold');
 
+%save to file
+set(gcf, 'PaperPosition', [0 0 13 7]); %Position plot at left hand corner with width 5 and height 5.
+set(gcf, 'PaperSize', [13 7]); %Set the paper to have width 5 and height 5.
+%saveas(gcf, 'SolarTrace_High', 'pdf') %Save figure
+saveas(gcf, '.\figures\HomeUsageTrace', 'pdf') %Save figure  
+saveas(gca, strcat('.\figures\HomeUsageTrace', '.eps'),'psc2') %Save figure 
+
 %set title
 %title('10000 Attackers, 1000 Proxies');
  
