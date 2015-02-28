@@ -10,7 +10,7 @@ Python
 
 ### Input/Output
 - [read and write file](./file/readAndWrite.py)
-- [traverse file](./file/traverse.py)
+- [traverse file](./file/traverse.md)
 - [numpy read and write file](./file/numpyReadAndWrite.md)
 
 ### Unarchived
