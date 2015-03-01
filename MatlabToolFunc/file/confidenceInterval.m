@@ -10,6 +10,7 @@ alpha = 0.1
 
 sizeA = size(A,2)
 
+%use  norminv(1-alpha/2)*std(y)/sqrt(samplesize) if samplesize is larger than 30, i.e., tend to be normal
 t = tinv(1-alpha/2,sizeA)
 
 delta = t*sqrt(varV)/sqrt(sizeA)
