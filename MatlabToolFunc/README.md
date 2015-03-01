@@ -19,4 +19,4 @@ Matlab Tool Functions
 ### Data Analysis
 - K-mean
   - [Plot reference](http://stackoverflow.com/questions/18091728/k-means-cluster-plot)
-- [confidence interval](./confidenceInterval.m)
+- [confidence interval](./file/confidenceInterval.m)
