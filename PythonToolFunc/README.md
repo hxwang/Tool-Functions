@@ -13,6 +13,9 @@ Python
 - [traverse file](./file/traverse.md)
 - [numpy read and write file](./file/numpyReadAndWrite.md)
 
+### Data Structure
+- [2D array](./file/array.md)
+
 ### Unarchived
 
 - [convert data for latex](https://github.com/hxwang/Tool-Functions/blob/master/PythonToolFunc/Data-for-Latex.py)
