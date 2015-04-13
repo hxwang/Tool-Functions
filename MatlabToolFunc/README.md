@@ -12,7 +12,7 @@ Matlab Tool Functions
 ### Plot Figures
 - [Basic Plot Example](./file/plotFigure.m)
 - [plot similarity](./file/plotSimilarity.md)
-- [set axis](./ile/setAxis.md)
+- [set axis](./file/setAxis.md)
 
 ### Solving Functions
 - [Linear Solver](./file/LinearSolver.m)
