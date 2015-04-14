@@ -5,7 +5,7 @@ Python
 
 
 ### Install
-- packet install helper: [pip-Win_1.7.exe]
+- packet install helper: [pip-Win_1.7.exe](https://sites.google.com/site/pydatalog/python/pip-for-windows)
 - [Install Issues](./file/install.md)
 
 ### Input/Output
