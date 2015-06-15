@@ -19,3 +19,6 @@ Python
 ### Unarchived
 
 - [convert data for latex](https://github.com/hxwang/Tool-Functions/blob/master/PythonToolFunc/Data-for-Latex.py)
+
+### Ipython
+- [ipython](./file/ipython.md)
