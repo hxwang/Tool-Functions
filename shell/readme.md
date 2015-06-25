@@ -9,3 +9,7 @@ do
     sleep 10
 done
 ```
+
+### Run a job in background
+- use `screen` to open a new terminal
+- use `ctrl a d` to detach
