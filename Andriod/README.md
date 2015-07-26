@@ -7,3 +7,6 @@
 
 ### Adb
 - [adb-put](./file/adb-put.md)
+
+### Kernel
+- [kernel compile](./file/compile-andriod-kernel.md)
