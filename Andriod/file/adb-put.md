@@ -58,6 +58,7 @@ root@android:/ # busybox chmod 75555 /system/bin/
 chmod: invalid mode '75555'
 1|root@android:/ # busybox chmod 7555 /system/bin/                             
 root@android:/ #
+```
 
 ### adb logcat
 记录手机上的所有操作
