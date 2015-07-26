@@ -4,3 +4,6 @@
 - [CGroup](./file/cgroup.md)
 - [Module Example](./file/module-example.md)
 - [CPU frequency](./file/cpu-freq.md)
+
+### Adb
+- [adb-put](./file/adb-put.md)
