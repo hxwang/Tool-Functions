@@ -2,7 +2,6 @@
 
 - [Battery](./file/battery.md)
 - [CGroup](./file/cgroup.md)
-- [Module Example](./file/module-example.md)
 - [CPU frequency](./file/cpu-freq.md)
 - [time measurement](./file/time.md)
 
@@ -11,3 +10,7 @@
 
 ### Kernel
 - [kernel compile](./file/compile-andriod-kernel.md)
+
+### Module
+- [write module](./file/write-module.md)
+- [Module Example](./file/module-example.md)
