@@ -1,3 +1,4 @@
 ## Mathematica
 
-### Vedio tutorials
+### Example
+- [NSolve](./file/nsolve.md)
