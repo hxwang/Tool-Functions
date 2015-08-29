@@ -1,4 +1,6 @@
 ## Mathematica
 
 ### Example
-- [NSolve](./file/nsolve.md)
+- [NSolve]
+ - [Uniform](./file/nsolve.md)
+ - [Exponential](./file/exponential.nb)
