@@ -1,0 +1,20 @@
+Clear["Global`*"];
+
+(*Cost to buy a new car*)
+C1 = 22000;
+(*Cost for an accident*)
+C2 = 2000;
+
+(*car lifetime distribution*)
+h[x_] = (1/10)*Exp[-x/10];
+H[x_] = 1 - Exp[-x/10];
+HC[x_] = Exp[-x/10];
+
+(*overall cost*)
+L[T_] = (C1 + C2*H[T])/(Integrate[x*h[x], {x, 0, T}] + T*HC[T]);
+NSolve[L'[T] == 0 && T > 0, T, Reals]
+Plot[L'[T], {T, -300, 10000}, PlotRange -> Full]
+
+(*test value*)
+N[L'[1000]]
+N[L'[10000]]
