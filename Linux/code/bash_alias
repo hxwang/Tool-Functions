@@ -1,0 +1,10 @@
+export EC2IP=xx
+export EC2Key=/home/hwang14/workspace/amazon/ec2/keys/xx.pem
+alias ..='cd ..'
+alias amazon_server='ssh -i $EC2Key ubuntu@$EC2IP'
+alias open='xdg-open'
+
+function cp2aws() {
+ scp -i $EC2Key $1 ubuntu@$EC2IP:$2
+}
+
